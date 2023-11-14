@@ -132,7 +132,7 @@
   font-family: 'Encode Sans Expanded', sans-serif;
   font-size: 16px;
   line-height: 1.2;
-  max-width: 959px;
+  max-width: 930px;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
@@ -156,7 +156,7 @@ section {
 }
 
 #es-durex.es-durex .es-kv__container {
-  background-image: url("https://www.ros.net.pl/Portals/0/rich-content/durex/5997321773384/img/bg.png");
+  background-image: url("../img/bg.png");
   background-size: cover;
   padding: 3rem;
 }
@@ -227,7 +227,7 @@ section {
     max-width: 100%;
     position: relative;
     z-index: 2;
-    background-image: url("https://www.ros.net.pl/Portals/0/rich-content/durex/5997321773384/img/kv-desktop.png");
+    background-image: url("../img/kv-desktop.png");
     background-size: 100% 100%;
     background-position: center;
     min-height: 360px;
@@ -272,7 +272,7 @@ section {
 /***************************** features styles ***************************/
 #es-durex.es-durex .es-features {
   padding: 2rem;
-  background-image: url("https://www.ros.net.pl/Portals/0/rich-content/durex/5997321773384/img/bg.png");
+  background-image: url("../img/bg.png");
   background-size: 100% 100%;
 }
 
@@ -402,7 +402,7 @@ section {
 }
 #es-durex.es-durex .es-slider .es-slide__text-container--3:before {
   content: "";
-  background-image: url("https://www.ros.net.pl/Portals/0/rich-content/durex/5997321773384/img/badge.png");
+  background-image: url("../img/badge.png");
   background-size: cover;
   background-position: center;
   height: 80px;
@@ -932,7 +932,7 @@ section {
 /****************************** cross styles ***************************/
 #es-durex.es-durex .es-cross {
   text-align: center;
-  background-image: url("https://www.ros.net.pl/Portals/0/rich-content/durex/5997321773384/img/cross-bg.png");
+  background-image: url("../img/cross-bg.png");
   background-size: cover;
   background-position: center;
   padding: 2rem;
